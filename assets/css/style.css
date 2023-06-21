@@ -58,7 +58,7 @@ p code {
   border: 0.25rem solid #ddd;
   border-left-width: 0.5rem;
   border-right-width: 0.5rem;
-  color: #EB5757;
+  color: #eb5757;
 }
 #blog a {
   font-size: 1.5rem;
@@ -140,7 +140,7 @@ h3 {
   height: 100vh;
 }
 #intro.section {
-  background: url(../../assets/img/andrew-borstein-2a.jpg) no-repeat top
+  background: url(../../assets/img/mern-stack-developer.jpg) no-repeat top
     center/cover;
   position: relative;
 }
@@ -158,7 +158,7 @@ h3 {
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 }
 #intro.section .underline {
-  border-bottom: 5px solid #009688;
+  border-bottom: 5px solid #ffffff;
 }
 #intro.section .teal {
   padding: 0 10px;
@@ -317,7 +317,7 @@ small {
   color: #008073 !important;
 }
 .teal {
-  background-color: #008073 !important;
+  background-color: #21205c !important;
 }
 @media (min-width: 1200px) {
   #experience .container {
